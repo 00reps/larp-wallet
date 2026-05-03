@@ -56,7 +56,7 @@ This project includes a mock pricing system with **3 subscription plans**:
 - All updates included  
 - Unlimited custom balances & tokens  
 - ✅ Priority Telegram support  
-
+ 
 ---
 
 ## ⚠️ Disclaimer
