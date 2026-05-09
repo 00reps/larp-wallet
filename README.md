@@ -11,7 +11,7 @@ This project mimics the look and feel of a real crypto wallet — but does NOT c
 
 ## ✨ Features
 
-- 🟣 Clean UI Phantom Wallet copy  
+- 🟣 Clean UI Phantom Wallet copy   
 - 💰 Fake balances & tokens 
 - ⚡ Fast & lightweight  
 - 📱 Works on iOS / Android 
